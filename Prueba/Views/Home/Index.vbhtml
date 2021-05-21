@@ -1,5 +1,5 @@
 ﻿@Code
-    ViewData("Title") = "Home Page"
+    ViewData("Title") = "Pagina principal"
 End Code
 
 <div class="jumbotron">

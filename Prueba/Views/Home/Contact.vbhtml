@@ -13,6 +13,6 @@ End Code
 </address>
 
 <address>
-    <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+    <strong>Servicio Técnico:</strong>   <a href="mailto:Perezbastian18@gmial.com">Perezbastian18@gmail.com</a><br />
+    <strong>Servicio de Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
 </address>
